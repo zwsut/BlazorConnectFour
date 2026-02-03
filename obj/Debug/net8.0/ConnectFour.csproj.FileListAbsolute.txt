@@ -1,0 +1,6 @@
+C:\Users\Zach\OneDrive\cse325\ConnectFour\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Zach\OneDrive\cse325\ConnectFour\obj\Debug\net8.0\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zach\OneDrive\cse325\ConnectFour\obj\Debug\net8.0\ConnectFour.AssemblyInfoInputs.cache
+C:\Users\Zach\OneDrive\cse325\ConnectFour\obj\Debug\net8.0\ConnectFour.AssemblyInfo.cs
+C:\Users\Zach\OneDrive\cse325\ConnectFour\obj\Debug\net8.0\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\Zach\OneDrive\cse325\ConnectFour\obj\Debug\net8.0\ConnectFour.MvcApplicationPartsAssemblyInfo.cache
